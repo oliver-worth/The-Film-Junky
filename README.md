@@ -1,4 +1,5 @@
 # Film Junky Union: Sentiment Analysis for Movie Reviews
+![Movie Posters](movie.png)
 
 ## Project Overview
 The Film Junky Union, a community for classic movie enthusiasts, is developing a system for filtering and categorizing movie reviews. The objective of this project was to build and evaluate models to automatically detect negative movie reviews. The target was to achieve an F1 score of at least 0.85 on the test dataset.
